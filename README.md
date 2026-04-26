@@ -2,7 +2,7 @@
 
 ## About me
 
-- 💻 I’m specializing in frameworks like <strong>Angular</strong> to improve my web development skills
+- 💻 I’m specializing in libraries & frameworks like <strong>React</strong> and <strong>Angular</strong> to improve my web development skills
 - 💼 I’m seeking opportunities to grow as a <strong>developer</strong> and build user-friendly websites
 - 🌍 Fluent in <strong>Spanish</strong> and <strong>English</strong>, so I can collaborate on projects in both languages
 - 📫 You can also reach me at <strong><a href="mailto:josedavidfive@gmail.com">josedavidfive@gmail.com</a></strong>
