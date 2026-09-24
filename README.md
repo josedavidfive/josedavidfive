@@ -15,4 +15,4 @@
 
 
 ## Languages and tools
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,mysql,java,selenium,postman,git&perline=6" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,php,mysql,java,wordpress,postman,git&perline=7" alt="Skill Icons"/>
